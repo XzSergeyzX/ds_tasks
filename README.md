@@ -35,13 +35,3 @@ Each time a land cell (`1`) is found, a flood-fill is performed to mark the whol
 The program reads from standard input:
 - first line: `m n`
 - next `m` lines: `n` integers (`0` or `1`)
-
-## Example
-Input:
-3 4
-1 1 0 0
-0 1 0 1
-0 0 1 1
-
-Output:
-2
